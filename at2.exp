@@ -1,3 +1,2 @@
-the file "at2.py" simply
-tests all parts of the 
-Raspberry Pi 4B.
+The file "at2.py" Maxes out CPU performance,
+and verifies thermal stability and performance.
