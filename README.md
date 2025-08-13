@@ -13,9 +13,8 @@ at1.exp to at5.exp are complete with instructions.
 # Updates
 
 Updates will take place over time.
-Upcoming releases will also be 
-rendered into the near future.
-Please be patient. 
-Thank You!
+Upcoming releases will also 
+take place into the near future.
+Please be patient. Thank You!
 
 ![35% Complete](https://img.shields.io/badge/Progress-35%25-darkred)
