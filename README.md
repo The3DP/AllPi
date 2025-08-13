@@ -18,4 +18,4 @@ rendered into the near future.
 Please be patient. 
 Thank You!
 
-![35% Complete](https://img.shields.io/badge/Progress-35%25-red)
+![35% Complete](https://img.shields.io/badge/Progress-35%25-darkred)
