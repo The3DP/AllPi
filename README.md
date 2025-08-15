@@ -11,8 +11,15 @@ Continue scrolling down to find the "info" for each "Pi" file.
 
 # Info for Pi-1
 
+[12:00:01] CPU: 99.8% | RAM: 86.3% | TEMP: 72.3°C | Time Left: 00:59:58
+[12:00:02] CPU: 100.0% | RAM: 88.1% | TEMP: 73.1°C | Time Left: 00:59:57
+...
 
-# Updates
+* This section will receive updates*
+# Info for Pi-2
+
+
+# About Updates
 
 Updates will take place over time.
 Upcoming releases will also 
