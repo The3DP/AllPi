@@ -27,7 +27,12 @@ RAM of your Raspberry Pi.
 * This section will receive updates*
 
 # Info for Pi-4
+The file "at5.py" simply tests the power consumption (and usage) 
+of your Raspberry Pi.
+The testing is safe. 
+It works by maxing out all of the CPU cores.
 
+# Info for Pi-5
 
 # About Updates
 Updates will take place over time.
