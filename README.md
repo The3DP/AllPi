@@ -33,6 +33,24 @@ The testing is safe.
 It works by maxing out all of the CPU cores.
 
 # Info for Pi-5
+All code is written in Python. 
+Important Notes: This only works on some Raspberry Pi models (like Pi 2, 3, and 4).
+On some newer Pis, the ACT LED may be handled differently, or unavailable.
+
+1. input = echo none | sudo tee /sys/class/leds/led0/trigger
+
+2. use the file "at5.py"
+
+To restore, input = echo mmc0 | sudo tee /sys/class/leds/led0/trigger
+---------------
+To run script: 
+
+input = sudo python3 act_led_schedule.py
+
+You need sudo because writing to "/sys/class/leds/..." requires root privileges.
+================================================================================
+
+# Info for Pi-6
 
 # About Updates
 Updates will take place over time.
