@@ -48,9 +48,27 @@ To run script:
 input = sudo python3 act_led_schedule.py
 
 You need sudo because writing to "/sys/class/leds/..." requires root privileges.
-================================================================================
 
 # Info for Pi-6
+2025-08-13 15:00:05 | Power: 10.35 W | CPU Load: 18.3% | CPU Temp: 51.0°C
+Above is a sample output for you to compare your result to.
+
+Important Limitations
+Raspberry Pi does not natively support USB power monitoring (volts * amps = watts).
+
+You’ll need external hardware (e.g., INA219/INA3221 sensors or a USB power meter with data access) to accurately measure wattage.
+
+Install required Libraries
+
+sudo pip3 install psutil adafruit-circuitpython-ina219
+sudo apt install i2c-tools python3-smbus -y
+
+Then, enable I2C interface:
+
+sudo raspi-config
+# Go to: Interfacing Options > I2C > Enable
+
+Lastly, fetch the code from the file "Pi-6.py"
 
 # About Updates
 Updates will take place over time.
