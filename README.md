@@ -76,4 +76,4 @@ Upcoming releases will also
 take place into the near future.
 Please be patient. Thank You!
 
-![35% Complete](https://img.shields.io/badge/Progress-35%25-darkred)
+![50% Complete](https://img.shields.io/badge/Progress-50%25-darkred)
