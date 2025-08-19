@@ -29,4 +29,4 @@ except KeyboardInterrupt:
     # Reset ACT LED to default trigger (SD activity)
     with open("/sys/class/leds/led0/trigger", 'w') as f:
         f.write('mmc0')
-      
+    
