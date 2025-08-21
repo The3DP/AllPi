@@ -33,6 +33,7 @@ Keep reading for details on each file!
 
 This script applies a moderate stress test and outputs real-time stats like:
 
-
+[12:00:01] CPU: 99.8% | RAM: 86.3% | TEMP: 72.3°C | Time Left: 00:59:58
+[12:00:02] CPU: 100.0% | RAM: 88.1% | TEMP: 73.1°C | Time Left: 00:59:57
 
 ![50% Complete](https://img.shields.io/badge/Progress-50%25-darkred)
