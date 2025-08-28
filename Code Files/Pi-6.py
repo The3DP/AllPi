@@ -55,4 +55,3 @@ except KeyboardInterrupt:
     print("Exiting and restoring ACT LED default trigger...")
     with open(ACT_LED_TRIGGER, 'w') as f:
         f.write('mmc0')
-      
