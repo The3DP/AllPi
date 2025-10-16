@@ -141,7 +141,7 @@ Feel free to open an issue if you have feature requests or run into any problems
 
 🌐 Connect
 
-Maintained by: [The3DP]
+Maintained by: [The3DP].
 For questions or feedback, feel free to open a GitHub issue or discussion thread.
 
 ![Progress](https://img.shields.io/badge/Progress-100%25-darkgreen)
